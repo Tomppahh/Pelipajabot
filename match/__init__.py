@@ -1,3 +1,1 @@
-__all__ = ["match"]
-
-from . import match
+__all__ = ["leagueoflegends", "counterstrike", "game", "apikey"]
